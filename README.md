@@ -9,6 +9,8 @@ En el Bugtracker todo debe estar escrito en inglés. Antes de informar, asegúra
 
 # Escriba el título de sus informes según el formato:
 
-* [Quest ID] = error de mision
-* [NPC ID] = 
-* [SpellId][Clase]
+* [Quest ID] = Misiones con errores.
+* [NPC ID] = Faltate de NPC.
+* [SpellId][Clase] = hablidades / poderes de clases.
+
+recuerde que todas las misiones puede, sacar en wowhead / world.
