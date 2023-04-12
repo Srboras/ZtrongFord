@@ -7,6 +7,8 @@ En el Bugtracker todo debe estar escrito en inglés. Antes de informar, asegúra
 * djunte enlaces a cosas relacionadas con el error usando http://wowhead.com.
 * Puede usar la captura de pantalla y videos.
 
+Tenga en cuenta que muchas misiones fueron marcadas como obsoleta por Blizzard y no se puede obtener ni completar nueva versión de dragonflight 10.7x
+
 # Escriba el título de sus informes según el formato:
 
 * `[Quest ID]` = Misiones con errores.
