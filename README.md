@@ -8,3 +8,5 @@ En el Bugtracker todo debe estar escrito en inglés. Antes de informar, asegúra
 * Puede usar la captura de pantalla y videos.
 
 # Escriba el título de sus informes según el formato:
+
+* [QuestId] 
