@@ -15,3 +15,5 @@ En el Bugtracker todo debe estar escrito en inglés. Antes de informar, asegúra
 
 Recuerde que todas las misiones puede, sacar en https://www.wowhead.com/es.
 
+cd /path/to/your/existing/code 
+git init
