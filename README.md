@@ -13,4 +13,11 @@ En el Bugtracker todo debe estar escrito en inglés. Antes de informar, asegúra
 * [NPC ID] = Faltate de NPC.
 * [SpellId][Clase] = hablidades / poderes de clases.
 
-recuerde que todas las misiones puede, sacar en wowhead / world.
+recuerde que todas las misiones puede, sacar en https://www.wowhead.com/es .
+
+
+discoer
+dasd
+asd
+asd
+asd
