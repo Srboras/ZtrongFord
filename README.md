@@ -15,4 +15,5 @@ En el Bugtracker todo debe estar escrito en inglés. Antes de informar, asegúra
 
 Recuerde que todas las misiones puede, sacar en https://www.wowhead.com/es.
 
-![logo(1)](https://user-images.githubusercontent.com/89896094/231340430-741534db-28ae-4945-919b-cd9604c8af21.png)
+
+![Sin títasdasdasdasdulo-2](https://user-images.githubusercontent.com/89896094/231340660-5e7baf39-caac-4490-a658-0ce37eb3c17d.png)
