@@ -11,7 +11,8 @@ En el Bugtracker todo debe estar escrito en inglés. Antes de informar, asegúra
 
 * `[Quest ID]` = Misiones con errores.
 * `[NPC ID]` = Faltate de NPC.
-* `[SpellId][Clase]` = habilidades / poderes de clases.
+* `[SpellId][Clase]` = Habilidades / poderes de clases.
+* `[Launcher]` = Error wow.
 
 Recuerde que todas las misiones puede, sacar en https://www.wowhead.com/es.
 
