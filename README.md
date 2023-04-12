@@ -9,5 +9,6 @@ En el Bugtracker todo debe estar escrito en inglés. Antes de informar, asegúra
 
 # Escriba el título de sus informes según el formato:
 
-* [QuestId] = error de mision
-* [NPCId] = 
+* [Quest ID] = error de mision
+* [NPC ID] = 
+* [SpellId][Clase]
