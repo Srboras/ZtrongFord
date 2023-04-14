@@ -15,7 +15,7 @@ Tenga en cuenta que muchas misiones fueron marcadas como obsoleta por Blizzard y
 * `[NPC ID]` = Faltate de NPC.
 * `[SpellId][Clase]` = Habilidades / poderes de clases.
 * `[Blz quest]`= Esta mision fue marca como obsoleto para Blizzard. 
-* `[Pn]`= Error de Profesion.
+* `[Pn ID]`= Error de Profesion.
 * `[Launcher]` = Error wow.
 
 Recuerde que todas las misiones puede, sacar en https://www.wowhead.com/es.
